@@ -2,13 +2,13 @@
 
 The project has been deployed at: http://naik-weatherapp.herokuapp.com/
 
-`<h2>`Weatherstack - https://weatherstack.com/product `</h2>`
+### Weatherstack - https://weatherstack.com/product
 
 Used in src --> utils --> forecast.js
 
 The function accepts latitude and longitude (from geocode) to return the weather at those coordinates.
 
-`<h2>`Mapbox - https://www.mapbox.com/`</h2>`
+### Mapbox - https://www.mapbox.com/
 
 Used in src --> utils --> geocode.js.
 
